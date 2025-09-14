@@ -48,7 +48,7 @@ docker build -t pune-real-estate .
 docker run -p 8501:8501 pune-real-estate
 Visit http://localhost:8501 to use the app.
 
-****🤝 Contributing
+🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 📜 License
